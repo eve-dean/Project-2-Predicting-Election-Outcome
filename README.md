@@ -8,10 +8,10 @@ All predictions are based on demographic characteristics of counties and states,
 - additionally, another model was developed using economic factors (retail sales, food service, etc)
 
 Kaggle dataset of 2016 primary election results
--Fraction of votes received per candidate per county
--primary election: vote fraction for each candidate split by party
--Missing Minnesota
--South Dakota had limited data reported
+- Fraction of votes received per candidate per county
+- primary election: vote fraction for each candidate split by party
+- Missing Minnesota
+- South Dakota had limited data reported
 County facts dataset
--Population demographics (age, race, gender)
--Economic conditions (median income, percent below poverty, retail sales, etc)
+- Population demographics (age, race, gender)
+- Economic conditions (median income, percent below poverty, retail sales, etc)
